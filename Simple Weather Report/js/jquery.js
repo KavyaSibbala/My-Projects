@@ -8,7 +8,7 @@
 		$("#temp").html(ans);
 		if(ans>30)
 		{
-			$("#im").html("<h1>It's hot!!</h1>");
+			$("#im").html("<h1>It's very hot!!</h1>");
 		}
 				
 		else if(ans>0 && ans<30)
